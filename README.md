@@ -66,4 +66,13 @@
 5. Реализуйте пул портов.
 6. Модифицируйте код FTP-сервера таким образом, чтобы он поддерживал шифрование.
 
+
+
+![image](https://user-images.githubusercontent.com/76133815/146786529-9605e676-3034-4297-97c6-f46aff8b1cd9.png)
+
+![image](https://user-images.githubusercontent.com/76133815/146786616-3d45a004-581a-44b5-915f-97aaba1464ac.png)
+
+![image](https://user-images.githubusercontent.com/76133815/146786738-8b4756de-7094-4b4c-97c2-c7e3cd734db6.png)
+
+
 <!-- Docs to Markdown version 1.0β17 -->
